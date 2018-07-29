@@ -13,8 +13,8 @@ def draw_shape(options)
 end
 
 options = {
-  rows: 4,
-  cols: 4,
-  char: "*"
+  rows: 3,
+  cols: 9,
+  char: "0"
 }
 puts draw_shape(options)
